@@ -5,4 +5,5 @@ perisian
  * char kuey tiaw
 - 125z 
 - shau
-- mal 
+- mal
+- palong
