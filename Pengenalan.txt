@@ -1,5 +1,7 @@
 perisian
 
 - amir
+ * tampin
+ * char kuey tiaw
 - shau
 - mal 
